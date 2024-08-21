@@ -1,0 +1,308 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Adjectives and Adverbs",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Fill in the blank: The word \"slow\" in \"The turtle is slow\" is an __________.",
+          "options": [
+            "adverb",
+            "adjective"
+          ],
+          "answer": 1,
+          "explanation": "It describes the noun 'turtle.'"
+        },
+        {
+          "questionNo": 2,
+          "question": "Which word is an adverb in the sentence: \"She finished her work very quickly\"?",
+          "options": [
+            "Finished",
+            "Her",
+            "Quickly",
+            "Very"
+          ],
+          "answer": 2,
+          "explanation": "\"Quickly\" describes how she finished her work."
+        },
+        {
+          "questionNo": 3,
+          "question": "Identify the adjective in the sentence: \"The extremely tall building blocked the sunlight.\"",
+          "options": [
+            "Extremely",
+            "Tall",
+            "Blocked",
+            "Sunlight"
+          ],
+          "answer": 1,
+          "explanation": "\"Tall\" describes the noun 'building.'"
+        },
+        {
+          "questionNo": 4,
+          "question": "Choose the correct adjective: \"The _____ lake was crystal clear.\"",
+          "options": [
+            "Large",
+            "Largely",
+            "Largeness",
+            "Largest"
+          ],
+          "answer": 0,
+          "explanation": "\"Large\" describes the noun 'lake.'"
+        },
+        {
+          "questionNo": 5,
+          "question": "Which word is an adverb in the sentence: \"She almost always arrives early\"?",
+          "options": [
+            "Almost",
+            "Always",
+            "Arrives",
+            "Early"
+          ],
+          "answer": 0,
+          "explanation": "\"Almost\" modifies the adverb 'always.'"
+        },
+        {
+          "questionNo": 6,
+          "question": "Identify the adjective in the sentence: \"The rapidly flowing river was dangerous.\"",
+          "options": [
+            "Rapidly",
+            "Flowing",
+            "River",
+            "Dangerous"
+          ],
+          "answer": 3,
+          "explanation": "\"Dangerous\" describes the noun 'river.'"
+        },
+        {
+          "questionNo": 7,
+          "question": "Choose the adverb to complete the sentence: \"She danced _____ during the recital.\"",
+          "options": [
+            "Graceful",
+            "Gracefully",
+            "Gracefulness",
+            "Gracious"
+          ],
+          "answer": 1,
+          "explanation": "\"Gracefully\" describes how she danced."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which word is an adjective in the sentence: \"The brightly lit room was spacious\"?",
+          "options": [
+            "Brightly",
+            "Lit",
+            "Room",
+            "Spacious"
+          ],
+          "answer": 3,
+          "explanation": "\"Spacious\" describes the noun 'room.'"
+        },
+        {
+          "questionNo": 9,
+          "question": "Which is the correct form to complete the sentence: \"He plays the piano _____\"?",
+          "options": [
+            "Good",
+            "Well",
+            "Goodly",
+            "Better"
+          ],
+          "answer": 1,
+          "explanation": "\"Well\" is the adverb describing how he plays the piano."
+        },
+        {
+          "questionNo": 10,
+          "question": "Choose the correct word: \"The _____ dog barked all night.\"",
+          "options": [
+            "Loud",
+            "Loudly",
+            "Louder",
+            "Loudness"
+          ],
+          "answer": 0,
+          "explanation": "\"Loud\" is an adjective describing the noun 'dog.'"
+        },
+        {
+          "questionNo": 11,
+          "question": "Which word in the sentence is an adverb? \"He ran incredibly fast.\"",
+          "options": [
+            "Ran",
+            "Incredibly",
+            "Fast",
+            "He"
+          ],
+          "answer": 1,
+          "explanation": "\"Incredibly\" modifies the adverb 'fast.'"
+        },
+        {
+          "questionNo": 12,
+          "question": "Identify the adjective in the sentence: \"The beautifully painted mural was inspiring.\"",
+          "options": [
+            "Beautifully",
+            "Painted",
+            "Mural",
+            "Inspiring"
+          ],
+          "answer": 3,
+          "explanation": "\"Inspiring\" describes the noun 'mural.'"
+        },
+        {
+          "questionNo": 13,
+          "question": "Which word is an adverb in the sentence: \"The team worked very efficiently\"?",
+          "options": [
+            "Team",
+            "Worked",
+            "Very",
+            "Efficiently"
+          ],
+          "answer": 3,
+          "explanation": "\"Efficiently\" describes how the team worked."
+        },
+        {
+          "questionNo": 14,
+          "question": "Choose the correct word to complete the sentence: \"The child sang _____ at the concert.\"",
+          "options": [
+            "Beautiful",
+            "Beautifully",
+            "Beauty",
+            "Beautify"
+          ],
+          "answer": 1,
+          "explanation": "\"Beautifully\" describes how the child sang."
+        },
+        {
+          "questionNo": 15,
+          "question": "Identify the adjective in the sentence: \"The quick brown fox jumps over the lazy dog.\"",
+          "options": [
+            "Quick",
+            "Brown",
+            "Lazy",
+            "All of the above"
+          ],
+          "answer": 3,
+          "explanation": "\"Quick,\" \"brown,\" and \"lazy\" all describe nouns in the sentence."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which word is an adverb in the sentence: \"She replied to the question quite confidently\"?",
+          "options": [
+            "Replied",
+            "Question",
+            "Quite",
+            "Confidently"
+          ],
+          "answer": 3,
+          "explanation": "\"Confidently\" describes how she replied."
+        },
+        {
+          "questionNo": 17,
+          "question": "Choose the adjective to complete the sentence: \"The _____ cake was delicious.\"",
+          "options": [
+            "Sweetly",
+            "Sweeter",
+            "Sweet",
+            "Sweetness"
+          ],
+          "answer": 2,
+          "explanation": "\"Sweet\" describes the noun 'cake.'"
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word is an adverb in the sentence: \"He completed his homework exceptionally well\"?",
+          "options": [
+            "Completed",
+            "Homework",
+            "Exceptionally",
+            "Well"
+          ],
+          "answer": 2,
+          "explanation": "\"Exceptionally\" modifies the adverb 'well.'"
+        },
+        {
+          "questionNo": 19,
+          "question": "Identify the adjective in the sentence: \"The old man walked slowly.\"",
+          "options": [
+            "Old",
+            "Man",
+            "Walked",
+            "Slowly"
+          ],
+          "answer": 0,
+          "explanation": "\"Old\" describes the noun 'man.'"
+        },
+        {
+          "questionNo": 20,
+          "question": "Which word is an adverb in the sentence: \"She usually arrives early\"?",
+          "options": [
+            "She",
+            "Usually",
+            "Arrives",
+            "Early"
+          ],
+          "answer": 1,
+          "explanation": "\"Usually\" describes how often she arrives."
+        },
+        {
+          "questionNo": 21,
+          "question": "Choose the correct form to complete the sentence: \"The artist painted the portrait _____.\"",
+          "options": [
+            "Careful",
+            "Carefulness",
+            "Carefully",
+            "Caring"
+          ],
+          "answer": 2,
+          "explanation": "\"Carefully\" describes how the artist painted the portrait."
+        },
+        {
+          "questionNo": 22,
+          "question": "Identify the adjective and the adverb in the sentence: \"The quickly moving car swerved to avoid the big pothole.\"",
+          "options": [
+            "Quickly (adverb), big (adjective)",
+            "Moving (adjective), swerved (adverb)",
+            "Car (adjective), pothole (adverb)",
+            "Swerved (adverb), quickly (adjective)"
+          ],
+          "answer": 0,
+          "explanation": "\"Quickly\" describes how the car was moving (adverb), and \"big\" describes the noun 'pothole' (adjective)."
+        },
+        {
+          "questionNo": 23,
+          "question": "Identify the adjective and the adverb in the sentence: \"She happily skipped down the narrow path.\"",
+          "options": [
+            "Happily (adjective), narrow (adverb)",
+            "Narrow (adjective), skipped (adverb)",
+            "Skipped (adjective), happily (adverb)",
+            "Happily (adverb), narrow (adjective)"
+          ],
+          "answer": 3,
+          "explanation": "\"Happily\" describes how she skipped (adverb), and \"narrow\" describes the noun 'path' (adjective)."
+        },
+        {
+          "questionNo": 24,
+          "question": "Identify the adjective and the adverb in the sentence: \"The extremely tall man walked slowly.\"",
+          "options": [
+            "Extremely (adjective), walked (adverb)",
+            "Tall (adjective), slowly (adverb)",
+            "Man (adjective), extremely (adverb)",
+            "Walked (adjective), tall (adverb)"
+          ],
+          "answer": 1,
+          "explanation": "\"Tall\" describes the noun 'man' (adjective), and \"slowly\" describes how he walked (adverb)."
+        },
+        {
+          "questionNo": 25,
+          "question": "Identify the adjective and the adverb in the sentence: \"The small bird chirped loudly from the tree.\"",
+          "options": [
+            "Small (adjective), loudly (adverb)",
+            "Bird (adjective), tree (adverb)",
+            "Loudly (adjective), chirped (adverb)",
+            "Small (adverb), loudly (adjective)"
+          ],
+          "answer": 0,
+          "explanation": "\"Small\" describes the noun 'bird' (adjective), and \"loudly\" describes how the bird chirped (adverb)."
+        }
+      ]
+    }
+  ]
+}
